@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Guang Zhou City"
+title                    : "Huang Chuting/personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Huang Chuting"
+description              : &description "An undergraduate student from Macau University Of Science and Science and Technology"
+url                      : https://github.com/oddy2333/oddy.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "github.com/oddy2333/oddy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Huang Chuting"
+  pronouns         : # example: "interesting"  
+  bio              : "To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life."
+  location         : "Guang Zhou City"
+  employer         : "Macau University Of Science and Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "15363705949@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
