@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Guang Zhou City"
+locale                   : "China GuangZhou"
 title                    : "Huang Chuting/personal Homepage"
 title_separator          : "-"
 name                     : &name "Huang Chuting"
@@ -25,7 +25,7 @@ author:
   name             : "Huang Chuting"
   pronouns         : # example: "interesting"  
   bio              : "To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life."
-  location         : "GuangZhou City"
+  location         : "China GuangZhou"
   employer         : "Macau University Of Science and Science and Technology"
   uri              : # URL
   email            : "15363705949@163.com" 
