@@ -12,7 +12,7 @@ title                    : "Huang Chuting/personal Homepage"
 title_separator          : "-"
 name                     : &name "Huang Chuting"
 description              : &description "An undergraduate student from Macau University Of Science and Science and Technology"
-url                      : https://github.com/oddy2333/oddy.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/oddy2333/oddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/oddy2333/oddy.github.io"
 
